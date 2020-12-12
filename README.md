@@ -5,12 +5,24 @@ The purpose of this analysis is to evaluate if there is any bias on the Amazon p
 ## Results:
 - How many Vine reviews and non-Vine reviews were there
 There were 47 vine reviews and 8362 non-vine reviews.
+![](img/vine_count.JPG)
+
+![](img/nonvine_count.JPG)
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 There were 15 5-stars reviews from vine and 4332 non-vine reviews from non-vine.
 
+![](img/vine_5star_count.JPG)
+
+
+![](img/nonvine_5star_count.JPG)
+
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 The percentage of 5-stars vine reviews were 31.91% and 51.81% 
+
+![](img/vine_5star.JPG)
+
+![](img/nonvine_5star.JPG)
 
 ## Summary: 
 From the summary above, there is no positivity bias for reviews in the Vine program. There were only 47 vine reviews and 15 of them gave 5 stars reviews of 31.91%. Whereas, there were 8362 non vine reviews, 4332 of them gave 5 stars reviews of 51.81%. Non vine reviews gave more 5 stars reviews them vine reviews. The result may not be conclusive that the vine reviews has positivity bias for reviews. This may be due to there is no enough vine reviews for watch catogory product, as it might me more expensive with less vine reviews.
